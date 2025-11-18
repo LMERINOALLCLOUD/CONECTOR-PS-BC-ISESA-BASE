@@ -1,0 +1,34 @@
+{
+  "id": "eee144db-0ac6-4b04-8b23-961a723d34b2",
+  "name": "Conector PS",
+  "publisher": "Allcloud Consulting S.L.",
+  "version": "1.0.0.69",
+  "brief": "",
+  "description": "Conector PS-BC B2C Sumicel",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.allcloud.es",
+  "logo": "./logo/logoAC.png",
+  "dependencies": [
+    {
+      "id": "1cbdb28d-3923-4259-8890-8e10fe3473cc",
+      "name": "ISESA",
+      "version": "1.0.0.0",
+      "publisher": "ABD"
+    }
+  ],
+  "screenshots": [],
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ConectorPS.com/help/",
+  "showMyCode": false,
+  "runtime": "15.0"
+
+}
