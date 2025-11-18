@@ -15,7 +15,7 @@ pageextension 60011 T30ItemCardExtension extends "Item Card"
                 field(IdPS; Rec.IdPS)
                 {
                     ApplicationArea = All;
-                    Editable = false;
+                    //Editable = false;
                 }
                 /*
                 field("Descripcion larga PS"; Rec."Descripcion larga PS")
